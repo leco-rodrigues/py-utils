@@ -1,0 +1,16 @@
+Metadata-Version: 2.2
+Name: pyutils
+Version: 0.1.0
+Summary: Reusable utility functions for personal Python projects
+Home-page: https://github.com/leco-rodrigues/pyutils
+Author: Leco
+Author-email: alex2199rodrigues@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >= 3.7
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: requires-python
+Dynamic: summary
